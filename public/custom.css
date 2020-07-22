@@ -1,0 +1,86 @@
+.bg-login {
+  background-color: #7f9ecd;
+  height: 100% !important;
+  position: absolute;
+  width: 100%;
+}
+
+.judul-login {
+  color: white;
+  padding-bottom: 3rem;
+}
+.judul-login h3 {
+  font-size: 3.2rem;
+  font-weight: bold;
+}
+.judul-login span {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.bg-home {
+  background-color: #5d8ae7;
+  position: sticky;
+}
+
+.text-home span {
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+}
+
+.cst-nav {
+  background-color: beige;
+  border-radius: 5px;
+  width: 80%;
+  height: 50px;
+}
+
+.nav-item a {
+  font-size: 20px;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.active {
+  background-color: blue !important;
+}
+.active a {
+  color: white !important;
+}
+
+.footer-cst {
+  background-color: #5895f1;
+  top: 15px;
+  position: relative;
+
+  border-radius: 5px;
+  width: 100%;
+  padding: 10px;
+}
+
+.footer-after span {
+  font-weight: 500;
+  padding-left: 1rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  color: white;
+  font-size: 1.2rem;
+}
+
+.text-home {
+  font-size: 1.5em;
+  color: #5d8ae7;
+  font-weight: 700;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.sty-font h4 {
+  color: #5895f1;
+  font-weight: 700;
+}
+
+.sty-font span {
+  color: #5895f1;
+  font-weight: 400;
+}
